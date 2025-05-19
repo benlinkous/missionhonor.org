@@ -1,0 +1,8 @@
+title: MissionHonor.org
+description: Honoring service through remembrance and action
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
